@@ -1,0 +1,74 @@
+C:\Users\gabri\OneDrive\Escritorio\DesWeb\TP6-3-capas\app-personas\backend\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\gabri\OneDrive\Escritorio\DesWeb\TP6-3-capas\app-personas\backend\bin\Debug\net9.0\appsettings.json
+C:\Users\gabri\OneDrive\Escritorio\DesWeb\TP6-3-capas\app-personas\backend\bin\Debug\net9.0\backend.staticwebassets.endpoints.json
+C:\Users\gabri\OneDrive\Escritorio\DesWeb\TP6-3-capas\app-personas\backend\bin\Debug\net9.0\backend.exe
+C:\Users\gabri\OneDrive\Escritorio\DesWeb\TP6-3-capas\app-personas\backend\bin\Debug\net9.0\backend.deps.json
+C:\Users\gabri\OneDrive\Escritorio\DesWeb\TP6-3-capas\app-personas\backend\bin\Debug\net9.0\backend.runtimeconfig.json
+C:\Users\gabri\OneDrive\Escritorio\DesWeb\TP6-3-capas\app-personas\backend\bin\Debug\net9.0\backend.dll
+C:\Users\gabri\OneDrive\Escritorio\DesWeb\TP6-3-capas\app-personas\backend\bin\Debug\net9.0\backend.pdb
+C:\Users\gabri\OneDrive\Escritorio\DesWeb\TP6-3-capas\app-personas\backend\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\gabri\OneDrive\Escritorio\DesWeb\TP6-3-capas\app-personas\backend\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\gabri\OneDrive\Escritorio\DesWeb\TP6-3-capas\app-personas\backend\obj\Debug\net9.0\backend.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Escritorio\DesWeb\TP6-3-capas\app-personas\backend\obj\Debug\net9.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Escritorio\DesWeb\TP6-3-capas\app-personas\backend\obj\Debug\net9.0\backend.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Escritorio\DesWeb\TP6-3-capas\app-personas\backend\obj\Debug\net9.0\backend.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Escritorio\DesWeb\TP6-3-capas\app-personas\backend\obj\Debug\net9.0\backend.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Escritorio\DesWeb\TP6-3-capas\app-personas\backend\obj\Debug\net9.0\backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gabri\OneDrive\Escritorio\DesWeb\TP6-3-capas\app-personas\backend\obj\Debug\net9.0\backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gabri\OneDrive\Escritorio\DesWeb\TP6-3-capas\app-personas\backend\obj\Debug\net9.0\backend.sourcelink.json
+C:\Users\gabri\OneDrive\Escritorio\DesWeb\TP6-3-capas\app-personas\backend\obj\Debug\net9.0\scopedcss\bundle\backend.styles.css
+C:\Users\gabri\OneDrive\Escritorio\DesWeb\TP6-3-capas\app-personas\backend\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\gabri\OneDrive\Escritorio\DesWeb\TP6-3-capas\app-personas\backend\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\gabri\OneDrive\Escritorio\DesWeb\TP6-3-capas\app-personas\backend\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\gabri\OneDrive\Escritorio\DesWeb\TP6-3-capas\app-personas\backend\obj\Debug\net9.0\staticwebassets\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gabri\OneDrive\Escritorio\DesWeb\TP6-3-capas\app-personas\backend\obj\Debug\net9.0\staticwebassets\msbuild.backend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\gabri\OneDrive\Escritorio\DesWeb\TP6-3-capas\app-personas\backend\obj\Debug\net9.0\staticwebassets\msbuild.build.backend.props
+C:\Users\gabri\OneDrive\Escritorio\DesWeb\TP6-3-capas\app-personas\backend\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.backend.props
+C:\Users\gabri\OneDrive\Escritorio\DesWeb\TP6-3-capas\app-personas\backend\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.backend.props
+C:\Users\gabri\OneDrive\Escritorio\DesWeb\TP6-3-capas\app-personas\backend\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\gabri\OneDrive\Escritorio\DesWeb\TP6-3-capas\app-personas\backend\obj\Debug\net9.0\backend.csproj.Up2Date
+C:\Users\gabri\OneDrive\Escritorio\DesWeb\TP6-3-capas\app-personas\backend\obj\Debug\net9.0\backend.dll
+C:\Users\gabri\OneDrive\Escritorio\DesWeb\TP6-3-capas\app-personas\backend\obj\Debug\net9.0\refint\backend.dll
+C:\Users\gabri\OneDrive\Escritorio\DesWeb\TP6-3-capas\app-personas\backend\obj\Debug\net9.0\backend.pdb
+C:\Users\gabri\OneDrive\Escritorio\DesWeb\TP6-3-capas\app-personas\backend\obj\Debug\net9.0\backend.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Escritorio\DesWeb\TP6-3-capas\app-personas\backend\obj\Debug\net9.0\ref\backend.dll
+C:\Users\gabri\OneDrive\Escritorio\DesWeb\TP6-3-capas\app-personas\backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gabri\OneDrive\Escritorio\DesWeb\TP6-3-capas\app-personas\backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gabri\OneDrive\Escritorio\DesWeb\TP6-3-capas\app-personas\backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dr Pacheco\OneDrive\Escritorio\arq-3-capas\app-personas\backend\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Dr Pacheco\OneDrive\Escritorio\arq-3-capas\app-personas\backend\bin\Debug\net9.0\appsettings.json
+C:\Users\Dr Pacheco\OneDrive\Escritorio\arq-3-capas\app-personas\backend\bin\Debug\net9.0\backend.staticwebassets.endpoints.json
+C:\Users\Dr Pacheco\OneDrive\Escritorio\arq-3-capas\app-personas\backend\bin\Debug\net9.0\backend.exe
+C:\Users\Dr Pacheco\OneDrive\Escritorio\arq-3-capas\app-personas\backend\bin\Debug\net9.0\backend.deps.json
+C:\Users\Dr Pacheco\OneDrive\Escritorio\arq-3-capas\app-personas\backend\bin\Debug\net9.0\backend.runtimeconfig.json
+C:\Users\Dr Pacheco\OneDrive\Escritorio\arq-3-capas\app-personas\backend\bin\Debug\net9.0\backend.dll
+C:\Users\Dr Pacheco\OneDrive\Escritorio\arq-3-capas\app-personas\backend\bin\Debug\net9.0\backend.pdb
+C:\Users\Dr Pacheco\OneDrive\Escritorio\arq-3-capas\app-personas\backend\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Dr Pacheco\OneDrive\Escritorio\arq-3-capas\app-personas\backend\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Dr Pacheco\OneDrive\Escritorio\arq-3-capas\app-personas\backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dr Pacheco\OneDrive\Escritorio\arq-3-capas\app-personas\backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dr Pacheco\OneDrive\Escritorio\arq-3-capas\app-personas\backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dr Pacheco\OneDrive\Escritorio\arq-3-capas\app-personas\backend\obj\Debug\net9.0\backend.csproj.AssemblyReference.cache
+C:\Users\Dr Pacheco\OneDrive\Escritorio\arq-3-capas\app-personas\backend\obj\Debug\net9.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dr Pacheco\OneDrive\Escritorio\arq-3-capas\app-personas\backend\obj\Debug\net9.0\backend.AssemblyInfoInputs.cache
+C:\Users\Dr Pacheco\OneDrive\Escritorio\arq-3-capas\app-personas\backend\obj\Debug\net9.0\backend.AssemblyInfo.cs
+C:\Users\Dr Pacheco\OneDrive\Escritorio\arq-3-capas\app-personas\backend\obj\Debug\net9.0\backend.csproj.CoreCompileInputs.cache
+C:\Users\Dr Pacheco\OneDrive\Escritorio\arq-3-capas\app-personas\backend\obj\Debug\net9.0\backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dr Pacheco\OneDrive\Escritorio\arq-3-capas\app-personas\backend\obj\Debug\net9.0\backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dr Pacheco\OneDrive\Escritorio\arq-3-capas\app-personas\backend\obj\Debug\net9.0\backend.sourcelink.json
+C:\Users\Dr Pacheco\OneDrive\Escritorio\arq-3-capas\app-personas\backend\obj\Debug\net9.0\scopedcss\bundle\backend.styles.css
+C:\Users\Dr Pacheco\OneDrive\Escritorio\arq-3-capas\app-personas\backend\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Dr Pacheco\OneDrive\Escritorio\arq-3-capas\app-personas\backend\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Dr Pacheco\OneDrive\Escritorio\arq-3-capas\app-personas\backend\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Dr Pacheco\OneDrive\Escritorio\arq-3-capas\app-personas\backend\obj\Debug\net9.0\staticwebassets\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dr Pacheco\OneDrive\Escritorio\arq-3-capas\app-personas\backend\obj\Debug\net9.0\staticwebassets\msbuild.backend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Dr Pacheco\OneDrive\Escritorio\arq-3-capas\app-personas\backend\obj\Debug\net9.0\staticwebassets\msbuild.build.backend.props
+C:\Users\Dr Pacheco\OneDrive\Escritorio\arq-3-capas\app-personas\backend\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.backend.props
+C:\Users\Dr Pacheco\OneDrive\Escritorio\arq-3-capas\app-personas\backend\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.backend.props
+C:\Users\Dr Pacheco\OneDrive\Escritorio\arq-3-capas\app-personas\backend\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Dr Pacheco\OneDrive\Escritorio\arq-3-capas\app-personas\backend\obj\Debug\net9.0\backend.csproj.Up2Date
+C:\Users\Dr Pacheco\OneDrive\Escritorio\arq-3-capas\app-personas\backend\obj\Debug\net9.0\backend.dll
+C:\Users\Dr Pacheco\OneDrive\Escritorio\arq-3-capas\app-personas\backend\obj\Debug\net9.0\refint\backend.dll
+C:\Users\Dr Pacheco\OneDrive\Escritorio\arq-3-capas\app-personas\backend\obj\Debug\net9.0\backend.pdb
+C:\Users\Dr Pacheco\OneDrive\Escritorio\arq-3-capas\app-personas\backend\obj\Debug\net9.0\backend.genruntimeconfig.cache
+C:\Users\Dr Pacheco\OneDrive\Escritorio\arq-3-capas\app-personas\backend\obj\Debug\net9.0\ref\backend.dll
