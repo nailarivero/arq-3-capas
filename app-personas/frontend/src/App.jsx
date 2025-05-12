@@ -1,52 +1,50 @@
-import { useEffect, useState } from 'react';
-import PersonaForm from './components/PersonaForm';
-import PersonaList from './components/PersonaList';
+import React, { useState, useEffect } from 'react';
+import ProductoForm from './components/ProductoForm';
+import ProductoList from './components/ProductoList';
 
-const API_URL = 'http://localhost:5001/api/persona';
+const API_URL = 'http://localhost:5001/api/producto';
 
-export default function App() {
-  const [personas, setPersonas] = useState([]);
-  const [personaSeleccionada, setPersonaSeleccionada] = useState(null);
+function App() {
+  const [productos, setProductos] = useState([]);
+  const [productoSeleccionado, setProductoSeleccionado] = useState(null);
 
   useEffect(() => {
-    fetchPersonas();
+    fetchProductos();
   }, []);
 
-  const fetchPersonas = async () => {
+  const fetchProductos = async () => {
     const res = await fetch(API_URL);
     const data = await res.json();
-    setPersonas(data);
+    setProductos(data);
   };
 
-  const guardarPersona = async (persona) => {
-    if (persona.id) {
-      await fetch(`${API_URL}/${persona.id}`, {
-        method: 'PUT',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(persona),
-      });
-    } else {
-      await fetch(API_URL, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(persona),
-      });
-    }
-    setPersonaSeleccionada(null);
-    fetchPersonas();
+  const guardarProducto = async (producto) => {
+    const metodo = producto.id ? 'PUT' : 'POST';
+    const url = producto.id ? `${API_URL}/${producto.id}` : API_URL;
+
+    await fetch(url, {
+      method: metodo,
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(producto),
+    });
+
+    setProductoSeleccionado(null);
+    fetchProductos();
   };
 
-  const eliminarPersona = async (id) => {
+  const eliminarProducto = async (id) => {
     await fetch(`${API_URL}/${id}`, { method: 'DELETE' });
-    fetchPersonas();
+    fetchProductos();
   };
 
   return (
     <div>
-      <h1>Gestión de Personas</h1>
-      <PersonaForm personaSeleccionada={personaSeleccionada} onGuardar={guardarPersona} />
-      <PersonaList personas={personas} onEditar={setPersonaSeleccionada} onEliminar={eliminarPersona} />
+      <h1>Gestión de Productos</h1>
+      <ProductoForm productoSeleccionado={productoSeleccionado} onGuardar={guardarProducto} />
+      <ProductoList productos={productos} onEditar={setProductoSeleccionado} onEliminar={eliminarProducto} />
     </div>
   );
 }
+
+export default App;
 
